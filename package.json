@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@types/node": "^22.13.11",
+    "axios": "^1.12.2",
+    "chalk": "^4.1.2",
+    "input": "^1.0.1",
+    "telegram": "^2.26.22"
+  }
+}

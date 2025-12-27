@@ -1,0 +1,30 @@
+{
+  "telegram": {
+    "apiId": "30896888",
+    "apiHash": "445f8d5ae5ebb63aab7bd0ee79f9b442",
+    "sessionFile": "session.txt",
+    "botToken": "8097779772:AAG7IZQsU2JpAAAE1QpFQ9i9lrTPYnhaU9I",
+    "chatId": "-4999493295"
+  },
+ 
+
+  "wallet": {
+  "phoneNumbers": [
+    "0636860964",
+    "0815148711",
+    "08106636195",
+    "0857119709",
+    "0882662101",
+    "0612868048"
+  ]
+  },
+  
+  "webhooks": {
+    "success": "https://discord.com/api/webhooks/1453321709611647089/Gue898pBDxES-kupYirgZdHvucOEVn2AvtBCEri57clrPFKgmGD3sX63UktFWFdHoK7S",
+    "fail": "https://discord.com/api/webhooks/1453321709611647089/Gue898pBDxES-kupYirgZdHvucOEVn2AvtBCEri57clrPFKgmGD3sX63UktFWFdHoK7S"
+  },
+  "settings": {
+    "connectionRetries": 5,
+    "reconnectDelay": 5000
+  }
+}
