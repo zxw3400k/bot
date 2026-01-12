@@ -20,8 +20,8 @@
   },
   
   "webhooks": {
-    "success": "https://discord.com/api/webhooks/1453321709611647089/Gue898pBDxES-kupYirgZdHvucOEVn2AvtBCEri57clrPFKgmGD3sX63UktFWFdHoK7S",
-    "fail": "https://discord.com/api/webhooks/1453321709611647089/Gue898pBDxES-kupYirgZdHvucOEVn2AvtBCEri57clrPFKgmGD3sX63UktFWFdHoK7S"
+    "success": "https://discord.com/api/webhooks/1460292885042696367/pH55X6GSjNqJ2YH3tX8_oDP-BbTk0c7Q_soWaZDgE8b8lOBkGAsD_OUxsz4UGP-rDTsP",
+    "fail": "https://discord.com/api/webhooks/1460293008413954263/bSjBTgNZFU9pUdaTchjLlDikShk7h0-59tGebKkFEs4fKdL0AuYZOU6OuedN9-rNl4sg"
   },
   "settings": {
     "connectionRetries": 5,
